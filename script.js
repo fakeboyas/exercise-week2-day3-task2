@@ -1,4 +1,4 @@
-let categories = [["home", "profile"], ["setting"], ["log out"]];
+let categories = [["Home", "Profile"], ["Setting"], ["Log Out"]];
 
 let aside = document.getElementById("menu");
 
